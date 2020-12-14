@@ -11,6 +11,10 @@ export const HeaderArea = styled.div`
         display:flex;
     }
 
+    .menu-header{
+        display:flex;
+    }
+
     a{
         text-decoration:none;
     }
